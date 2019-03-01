@@ -16,4 +16,4 @@ The following constraints define the RESTfulness of an application or service.
 ## RESTful web services API architecture
 
 The following diagram shows a RESTful web service architecture. In this diagram, the request-response flow among the client-server is represented.
-![restful-web-services-api-architecture](rest-api-crud-php/tree/master/rest-api-crud-php/image/restful-web-services-api-architecture.jpg)
+![restful-web-services-api-architecture](rest-api-crud-php/image/restful-web-services-api-architecture.jpg)
